@@ -1,0 +1,52 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+
+
+.titulo{
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+
+h1{
+    color: white;
+    font-size: 80px;
+}
+
+.imagenes{
+    display: flex;
+    justify-content: center;
+}
+
+.moto{
+    margin-left: 200px;
+    width: 600px;
+    height: 600px;
+}
+
+.vehiculos{
+    display: flex;
+    justify-content: space-around;
+}
+
+h3{
+    font-size: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.tituloauto{
+    margin-left: 600px;
+    background-color: rgb(245, 29, 29);
+    border-radius: 50px;
+}
+
+.titulomoto{
+
+    margin-right: 600px;
+    background-color: rgb(245, 29, 29);
+    border-radius: 50px;
+}
